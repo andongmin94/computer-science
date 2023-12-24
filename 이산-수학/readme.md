@@ -7,6 +7,9 @@
 ### [2강 명제와 연산자](/이산-수학/명제와-연산자.md)
  
 ### 3강 역, 이, 대우
-- 
+
+![image](https://github.com/andongmin94/cs/assets/110483588/63e7fc05-be7b-45aa-ae83-9f5af713b3cd)
+
+![image](https://github.com/andongmin94/cs/assets/110483588/58f6266f-2c71-4269-b2a2-2ae46dc7c735)
 
 ### [4강 동치 관계](/이산-수학/동치-관계.md)
