@@ -8,7 +8,7 @@
 |1| :white_check_mark: |0.5| [이산수학 개요](이산-수학/readme.md) | |
 |1| :white_check_mark: |0.5| [명제와 연산자](이산-수학/명제와-연산자.md) | |
 |1| :white_check_mark: |0.5| [역, 이, 대우](이산-수학/readme.md) | |
-|1| :blue_check_mark: |0.5| [동치 관계](이산-수학/동치-관계.md) | |
+|1| :black_check_mark: |0.5| [동치 관계](이산-수학/동치-관계.md) | |
 
 ---
 
