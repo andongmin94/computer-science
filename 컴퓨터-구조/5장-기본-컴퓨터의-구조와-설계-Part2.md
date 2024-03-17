@@ -4,6 +4,8 @@
 
 -
 
+&nbsp;
+
 ## [제 5장 Part-2-1](https://www.youtube.com/watch?v=zQuOYWLbCI4&list=PLc8fQ-m7b1hCHTT7VH2oo0Ng7Et096dYc&index=13)
 
 ### 컴퓨터에 대한 완전한 기술 (Complete Computer Description)

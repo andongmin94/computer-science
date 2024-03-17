@@ -1,28 +1,37 @@
 > :bulb: 논리 설계의 다음 과목으로 논리 게이트를 활용하여 실제 컴퓨터-구조가 어떻게 구성 되는지와 컴퓨터의 하드웨어적인 구성과 내부적인 동작에 대해 배우고 소프트웨어 엔지니어지만 하드웨어적인 부분까지 이해하면 프로그래밍에도 도움이 되고 이후 컴퓨터-구조와 가까이에 있는 운영체제 과목에 대한 이해도를 높일 수 있음
 
+&nbsp;
+
 ### 학습 주제
 
 - 현대적인 컴퓨터-구조에 이르기 까지의 역사를 살펴보며 컴퓨터 시스템 구성요소 이해
 - CPU, RAM, IO 등의 하드웨어적인 구성과 이를 사용해 데이터를 처리, 저장, 이동 및 제어하는 컴퓨터의 내부 동작 이해
 
+&nbsp;
+
 ### 추가 교재 및 참고자료
 
-<details>
-<summary>영상 : [컴퓨터시스템구조](https://www.youtube.com/playlist?list=PLc8fQ-m7b1hCHTT7VH2oo0Ng7Et096dYc) (23H)</summary>
-컴퓨터 공학과 교수님께서 정규 교과과목을 온라인으로 진행한 영상이며 컴퓨터시스템구조(제3판) 교재에 대한 강의이므로 교재로 학습하기에도 좋습니다.
-</details>
+영상 : [컴퓨터시스템구조](https://www.youtube.com/playlist?list=PLc8fQ-m7b1hCHTT7VH2oo0Ng7Et096dYc) (23H)
 
-<details>
-<summary>교재 : [밑바닥부터 만드는 컴퓨팅 시스템](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass&barcode=9788966262427)</summary>
-MIT의 컴퓨터과학 교재로 사용되고 있음  
+- 컴퓨터 공학과 교수님께서 정규 교과과목을 온라인으로 진행한 영상이며 컴퓨터시스템구조(제3판) 교재에 대한 강의이므로 교재로 학습하기에도 좋습니다.
 
-기본적인 하드웨어 플랫폼과 현대적인 소프트웨어 계층을 밑바닥에서부터 차근차근 구성해 보는 12개의 장과 프로젝트로 이루어져 있으며, 이 과정을 통해 학생들은 하드웨어 아키텍처, 운영체제, 프로그래밍 언어, 컴파일러, 데이터 구조, 알고리즘 및 소프트웨어 공학에 대해 실용적인 지식을 얻을 수 있음
+&nbsp;
 
-* 추가 참고 교재 : [컴퓨터-구조 & 운영체제](https://brainwave.tistory.com/895)
-<details>
-<summary>추가 참고 교재 : [한 권으로 읽는 컴퓨터-구조와 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791189909284)</summary>
+교재 : [밑바닥부터 만드는 컴퓨팅 시스템](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass&barcode=9788966262427)
 
-- 목차 : https://www.onlybook.co.kr/entry/secret-programs
+- MIT의 컴퓨터과학 교재로 사용되고 있음  
+
+- 기본적인 하드웨어 플랫폼과 현대적인 소프트웨어 계층을 밑바닥에서부터 차근차근 구성해 보는 12개의 장과 프로젝트로 이루어져 있으며, 이 과정을 통해 학생들은 하드웨어 아키텍처, 운영체제, 프로그래밍 언어, 컴파일러, 데이터 구조, 알고리즘 및 소프트웨어 공학에 대해 실용적인 지식을 얻을 수 있음
+
+&nbsp;
+
+추가 참고 교재 : [컴퓨터-구조 & 운영체제](https://brainwave.tistory.com/895)
+
+&nbsp;
+
+추가 참고 교재 : [한 권으로 읽는 컴퓨터-구조와 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791189909284)
+
+[목차](https://www.onlybook.co.kr/entry/secret-programs)
 
 ```
 1장. 컴퓨터 내부의 언어 체계          ▶ 컴퓨터는 어떤 말을 사용할까 ◀
@@ -41,11 +50,10 @@ MIT의 컴퓨터과학 교재로 사용되고 있음
 14장. 세상을 바꾸는 기계 지능        ▶ 미래를 열어가는 인공지능, 머신러닝, 빅데이터 ◀
 15장. 훌륭한 프로그래머가 되기 위한 팁과 경험담 ▶ 알아두면 좋은 실무 상식과 조언 ◀
 ```
-</details>
-</details>
 
-<details>
-<summary>블로그 : https://brunch.co.kr/@toughrogrammer/14</summary>
+&nbsp;
+
+[블로그](https://brunch.co.kr/@toughrogrammer/14)
 
 - 명령어 집합
 - 주소 지정 모드
@@ -55,7 +63,8 @@ MIT의 컴퓨터과학 교재로 사용되고 있음
 - 캐시
 - 가상 메모리와 변환 색인 버퍼
 - Polling과 DMA
-</details>
+
+&nbsp;
 
 ### 선수과목
 
@@ -63,6 +72,8 @@ MIT의 컴퓨터과학 교재로 사용되고 있음
 <summary>논리설계</summary>
   논리적인 회로 관점에서 컴퓨터가 덧셈을 어떻게 처리해서 컴퓨터 동작의 흐름과 감을 잡는데 도움을 줌
 </details>
+
+&nbsp;
 
 <details>
 <summary>컴퓨터 및 전자공학개론</summary>
