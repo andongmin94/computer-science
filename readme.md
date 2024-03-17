@@ -12,7 +12,7 @@
 
 ---
 
-### [컴퓨터-구조](https://www.youtube.com/playlist?list=PLc8fQ-m7b1hCHTT7VH2oo0Ng7Et096dYc)
+### [컴퓨터 구조](https://www.youtube.com/playlist?list=PLc8fQ-m7b1hCHTT7VH2oo0Ng7Et096dYc)
 |파트|진행상태|학습시간|강의내용|
 | ------ | ------ | ------ | ------ |
 | | | | [강의 개요](컴퓨터-구조) |
