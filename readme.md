@@ -1,10 +1,9 @@
 # CS 학습 플랜/정리 템플릿
 과목별 추천 동영상 강의를 중심으로 진도를 추적하고 배운 내용을 정리하기 위한 템플릿
 
-### [이산수학](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDgOIBt9MKQl-uMVrxtac4n)
+### [이산수학](이산수학)
 |진행상태|강의내용|
 | ------ | ------ | 
-| | [강의 개요](이산수학) |
 | :white_check_mark: |[이산수학 개요](이산수학/이산수학-개요.md) |
 | :white_check_mark: |[명제와 연산자](이산수학/명제와-연산자.md) |
 | :white_check_mark: |[역, 이, 대우](이산수학/역-이-대우.md) |
@@ -12,10 +11,9 @@
 
 ---
 
-### [컴퓨터 구조](https://www.youtube.com/playlist?list=PLc8fQ-m7b1hCHTT7VH2oo0Ng7Et096dYc)
+### [컴퓨터 구조](컴퓨터-구조)
 |파트|진행상태|강의내용|
 | ------ | ------ | ------ |
-| | | [강의 개요](컴퓨터-구조) |
 |1| :white_large_square: | [컴퓨터-구조 개요](컴퓨터-구조/컴퓨터-구조-개요.md) |
 | | :white_large_square: | [1장 디지털 논리 회로 및 강의소개](컴퓨터-구조/1장-디지털-논리-회로-및-강의소개.md) |
 | | :white_large_square: | [2장 디지털 부품](컴퓨터-구조/2장-디지털-부품.md) |
@@ -33,10 +31,9 @@
 
 ---
 
-### [운영체제](http://www.kocw.net/home/search/kemView.do?kemId=1046323)
+### [운영체제](운영체제)
 |파트|진행상태|강의내용|
 | ------ | ------ | ------ |
-| | | [강의 개요](운영체제) |
 |1| :white_large_square: | [1, 2장 운영체제 개요 및 컴퓨터시스템의 구조](운영체제/1,-2장-운영체제-개요-및-컴퓨터시스템의-구조.md) |
 | | :white_large_square: | [3장 프로세스](운영체제/3장-프로세스.md) |
 | | :white_large_square: | [4장 프로세스 관리](운영체제/4장-프로세스-관리.md) |
@@ -50,10 +47,9 @@
 
 ---
 
-### [네트워크](https://www.youtube.com/playlist?list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi)
+### [네트워크](네트워크)
 |파트|진행상태|강의내용|
 | ------ | ------ | ------ |
-| | | [강의 개요](네트워크) |
 |1| :white_large_square: | [1, 2장 네트워크와 모델](네트워크/1,-2장-네트워크와-모델.md) |
 | | :white_large_square: | [3장 데이터 통신](네트워크/3장-데이터-통신.md) |
 | | :white_large_square: | [4장 IP 주소](네트워크/4장-IP-주소.md) |
