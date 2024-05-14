@@ -1,4 +1,4 @@
-[[따라學IT] 04. 실제로 컴퓨터끼리는 IP주소를 사용해 데이터를 주고받는다](https://youtu.be/s5kIGnaNFvM?list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi)
+### [IP주소를 활용한 데이터 교환](https://www.youtube.com/watch?v=s5kIGnaNFvM)
 
 ### 3계층의 기능
 

@@ -1,4 +1,4 @@
-### [NAT란?](https://youtu.be/Qle5cfCcuEY?list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi)
+### [NAT란?](https://www.youtube.com/watch?v=Qle5cfCcuEY)
 
 - 
 
@@ -10,6 +10,6 @@
 
 &nbsp;
 
-### [포트 포워딩 설정 실습](https://youtu.be/EvYI14QdM6A?list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi)
+### [포트 포워딩 설정 실습](https://youtu.be/watch?v=EvYI14QdM6A)
 
 -
