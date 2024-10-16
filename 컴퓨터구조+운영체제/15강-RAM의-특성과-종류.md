@@ -6,7 +6,7 @@
 
 - 실제 램의 종류는 D-RAM S-RAM, SD-RAM, DDR SD-RAM 4종류
   - DRAM(Dynamic RAM)
-    - Dynamic = '동적의
+    - Dynamic = '동적의'
     - 저장된 데이터가 동적으로 사라지는 RAM
     - 데이터 소멸을 막기 위해 주기적으로 재활성화해야함.
     - 일반적으로 메모리로 사용되는 RAM
