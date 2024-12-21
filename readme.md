@@ -65,10 +65,10 @@
 | ------ | ------ | ------ |
 |1| :white_check_mark: | [1장 네트워크 기초](네트워크/1장-네트워크-기초.md) |
 | | :white_check_mark: | [2장 네트워크 모델](네트워크/2장-네트워크-모델.md) |
-| | :white_large_square: | [3장 데이터 통신](네트워크/3장-데이터-통신.md) |
-| | :white_large_square: | [4장 IP 주소](네트워크/4장-IP-주소.md) |
-| | :white_large_square: | [5장 ARP 프로토콜](네트워크/5장-ARP-프로토콜.md) |
-| | :white_large_square: | [6장 IPv4, ICMP 프로토콜](네트워크/6장-IPv4,-ICMP-프로토콜.md) |
+| | :white_check_mark: | [3장 데이터 통신](네트워크/3장-데이터-통신.md) |
+| | :white_check_mark: | [4장 IP 주소](네트워크/4장-IP-주소.md) |
+| | :white_check_mark: | [5장 ARP 프로토콜](네트워크/5장-ARP-프로토콜.md) |
+| | :white_check_mark: | [6장 IPv4, ICMP 프로토콜](네트워크/6장-IPv4,-ICMP-프로토콜.md) |
 |2| :white_large_square: | [7장 전송계층 및 포트](네트워크/7장-전송계층-및-포트.md) |
 | | :white_large_square: | [8장 UDP 비연결지향형](네트워크/8장-UDP-비연결지향형.md) |
 | | :white_large_square: | [9장 TCP 연결지향형](네트워크/9장-TCP-연결지향형.md) |
