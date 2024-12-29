@@ -11,7 +11,3 @@
 ![image](https://github.com/user-attachments/assets/40da2536-ed18-4a9f-a404-e4e2a2fafc95)
 
 &nbsp;
-
-### [tftpd로 파일 전송 실습](https://www.youtube.com/watch?v=5Woau-EJChw)
-
--
