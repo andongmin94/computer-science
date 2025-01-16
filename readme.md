@@ -69,11 +69,11 @@
 | | :white_check_mark: | [4장 IP 주소](네트워크/4장-IP-주소.md) |
 | | :white_check_mark: | [5장 ARP 프로토콜](네트워크/5장-ARP-프로토콜.md) |
 | | :white_check_mark: | [6장 IPv4, ICMP 프로토콜](네트워크/6장-IPv4,-ICMP-프로토콜.md) |
-|2| :white_large_square: | [7장 전송계층 및 포트](네트워크/7장-전송계층-및-포트.md) |
-| | :white_large_square: | [8장 UDP 비연결지향형](네트워크/8장-UDP-비연결지향형.md) |
-| | :white_large_square: | [9장 TCP 연결지향형](네트워크/9장-TCP-연결지향형.md) |
-| | :white_large_square: | [10장 NAT와 포트포워딩](네트워크/10장-NAT와-포트포워딩.md) |
-| | :white_large_square: | [11장 HTTP 프로토콜](네트워크/11장-HTTP-프로토콜.md) |
+|2| :white_check_mark: | [7장 전송계층 및 포트](네트워크/7장-전송계층-및-포트.md) |
+| | :white_check_mark: | [8장 UDP 비연결지향형](네트워크/8장-UDP-비연결지향형.md) |
+| | :white_check_mark: | [9장 TCP 연결지향형](네트워크/9장-TCP-연결지향형.md) |
+| | :white_check_mark: | [10장 NAT와 포트포워딩](네트워크/10장-NAT와-포트포워딩.md) |
+| | :white_check_mark: | [11장 HTTP 프로토콜](네트워크/11장-HTTP-프로토콜.md) |
 
 ---
 
