@@ -32,32 +32,28 @@
 
 ![image](https://github.com/user-attachments/assets/aa285c6c-0652-4810-a871-44d62fa9e848)
 
-&nbsp;
-
-### [HTTP 요청 프로토콜 작성 실습](https://youtu.be/watch?v=XbGJYsxed2w)
-
-- 
-
-&nbsp;
-
-### [URI 이해를 위한 실습](https://youtu.be/watch?v=HBojczyd1Ac)
-
-- 
+![image](https://github.com/user-attachments/assets/0225c13c-5bd6-4046-9b10-a2803823df8c)
 
 &nbsp;
 
 ### [HTTP 응답 프로토콜](https://youtu.be/watch?v=kuucNF4Zvbs)
 
-- 
+![image](https://github.com/user-attachments/assets/c05ae011-710c-4078-a228-cafac4244d03)
+
+![image](https://github.com/user-attachments/assets/248937c7-abe4-41c9-845d-de3420538333)
+
+![image](https://github.com/user-attachments/assets/06bae168-1537-4bda-a2ca-7953e357608d)
+
+![image](https://github.com/user-attachments/assets/92092880-f921-4952-95ba-51fb49531b8f)
 
 &nbsp;
 
 ### [HTTP 헤더 포맷](https://youtu.be/watch?v=mQTGmxendk8)
 
-- 
+![image](https://github.com/user-attachments/assets/3168011b-b316-40c4-8023-caa003a81e2f)
 
-&nbsp;
+![image](https://github.com/user-attachments/assets/3cbeb27a-00b9-4cd4-b0b6-1b5813b29fd1)
 
-### [HTTP 프로토콜 분석 실습](https://youtu.be/watch?v=dhMrKTwNI8U?)
+![image](https://github.com/user-attachments/assets/94ee9f60-0e5a-439a-b62c-fed9e49bda19)
 
--
+![image](https://github.com/user-attachments/assets/fed83ff7-4011-4070-b8e6-3a691e6a5e2a)
