@@ -1,0 +1,1 @@
+### [DNS 레코드 타입](https://www.inflearn.com/courses/lecture?courseId=335940&unitId=261934&subtitleLanguage=ko)

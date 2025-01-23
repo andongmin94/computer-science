@@ -1,0 +1,1 @@
+### [정적 IP 주소 동적 IP 주소](https://www.inflearn.com/courses/lecture?courseId=335940&unitId=261923)

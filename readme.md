@@ -61,42 +61,50 @@
 ---
 
 ### [네트워크](네트워크)
-|파트|진행상태|강의내용|
+|섹션|진행상태|강의내용|
 | ------ | ------ | ------ |
-|1| :white_check_mark: | [1장 네트워크 기초](네트워크/1장-네트워크-기초.md) |
-| | :white_check_mark: | [2장 네트워크 모델](네트워크/2장-네트워크-모델.md) |
-| | :white_check_mark: | [3장 데이터 통신](네트워크/3장-데이터-통신.md) |
-| | :white_check_mark: | [4장 IP 주소](네트워크/4장-IP-주소.md) |
-| | :white_check_mark: | [5장 ARP 프로토콜](네트워크/5장-ARP-프로토콜.md) |
-| | :white_check_mark: | [6장 IPv4, ICMP 프로토콜](네트워크/6장-IPv4,-ICMP-프로토콜.md) |
-|2| :white_check_mark: | [7장 전송계층 및 포트](네트워크/7장-전송계층-및-포트.md) |
-| | :white_check_mark: | [8장 UDP 비연결지향형](네트워크/8장-UDP-비연결지향형.md) |
-| | :white_check_mark: | [9장 TCP 연결지향형](네트워크/9장-TCP-연결지향형.md) |
-| | :white_check_mark: | [10장 NAT와 포트포워딩](네트워크/10장-NAT와-포트포워딩.md) |
-| | :white_check_mark: | [11장 HTTP 프로토콜](네트워크/11장-HTTP-프로토콜.md) |
-
----
-
-### OSTEP
-<p align="center">
-  <img src=./OSTEP/cover.jpg/>
-</p>
-
-| intro                                     | virtualization                                    |                                                      | concurrency                                             | persistence                                                 | 
-| ----------------------------------------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------------- | 
-| [Preface](http://ostep.org/Korean/00-preface.pdf)                 | 3 [Dialogue](http://ostep.org/Korean/03-dialogue-virtualization.pdf)      | 12 [Dialogue](http://ostep.org/Korean/12-dialogue-vm.pdf)                    | 25 [Dialogue](http://ostep.org/Korean/25_dialogue-concurrency.pdf)              | 35 [Dialogue](http://ostep.org/Korean/35_dialogue-persistence.pdf)                  | 
-| [Preface-Translate](http://ostep.org/Korean/00-preface-tx.pdf)    | 4 [Processes](http://ostep.org/Korean/04-cpu-intro.pdf)                   | 13 [Address Spaces](http://ostep.org/Korean/13-vm-intro.pdf)                 | 26 [Concurrency and Threads](http://ostep.org/Korean/26_threads-intro.pdf)      | 36 [I/O Devices](http://ostep.org/Korean/36_file-devices.pdf)                       | 
-| [TOC](http://ostep.org/Korean/00-toc.pdf)                         | 5 [Process API](http://ostep.org/Korean/05-cpu-api.pdf)                   | 14 [Memory API](http://ostep.org/Korean/14-vm-api.pdf)                       | 27 [Thread API](http://ostep.org/Korean/27_threads-api.pdf)                     | 37 [Hard Disk Drives](http://ostep.org/Korean/37_file_disks.pdf)                    | 
-| 1 [Dialogue](http://ostep.org/Korean/01-dialogue-threeeasy.pdf)   | 6 [Direct Execution](http://ostep.org/Korean/06-cpu-mechanisms.pdf)       | 15 [Address Translation](http://ostep.org/Korean/15-vm-mechanism.pdf)        | 28 [Locks](http://ostep.org/Korean/28_threads-locks.pdf)                        | 38 [Redundant Disk Arrays (RAID)](http://ostep.org/Korean/38_RAID.pdf)              | 
-| 2 [Introduction](http://ostep.org/Korean/02-intro.pdf)            | 7 [CPU Scheduling](http://ostep.org/Korean/07-cpu-sched.pdf)              | 16 [Segmentation](http://ostep.org/Korean/16-vm-segmentation.pdf)            | 29 [Locked Data Structures](http://ostep.org/Korean/29_threads-locks-usage.pdf) | 39 [Files and Directories](http://ostep.org/Korean/39_interlude-file-directory.pdf) | 
-|                                                                   | 8 [Multi-level Feedback](http://ostep.org/Korean/08-cpu-sched-mlfq.pdf)   | 17 [Free Space Management](http://ostep.org/Korean/17-vm-freespace.pdf)      | 30 [Condition Variables](http://ostep.org/Korean/30_threads-cv.pdf)             | 40 [File System Implementation](http://ostep.org/Korean/40_FS-implementation.pdf)   | 
-|                                                                   | 9 [Lottery Scheduling](http://ostep.org/Korean/09-cpu-sched-lottery.pdf)  | 18 [Introduction to Paging](http://ostep.org/Korean/18-vm-paging.pdf)        | 31 [Semaphores](http://ostep.org/Korean/31_threads-sema.pdf)                    | 41 [Fast File System (FFS)](http://ostep.org/Korean/41_FFS.pdf)                     | 
-|                                                                   | 10 [Multi-CPU Scheduling](http://ostep.org/Korean/10-cpu-sched-multi.pdf) | 19 [Translation Lookaside Buffers](http://ostep.org/Korean/19_vm-tlbs.pdf)   | 32 [Concurrency Bugs](http://ostep.org/Korean/32_threads-bugs.pdf)              | 42 [FSCK and Journaling](http://ostep.org/Korean/42_crash-consistency.pdf)          | 
-|                                                                   | 11 [Summary](http://ostep.org/Korean/11-cpu-dialogue.pdf)                 | 20 [Advanced Page Tables](http://ostep.org/Korean/20_vm-smalltables.pdf)     | 33 [Event-based Concurrency](http://ostep.org/Korean/33_threads-events.pdf)     | 43 [Log-Structured File System (LFS)](http://ostep.org/Korean/43_LFS.pdf)           |
-|                                                                   |                                                                           | 21 [Swapping: Mechanisms](http://ostep.org/Korean/21_vm-beyondphys.pdf)      | 34 [Summary](http://ostep.org/Korean/34_threads_dialogue.pdf)                   | 44 [Data Integrity and Protection](http://ostep.org/Korean/44_data-integrity.pdf)   |
-|                                                                   |                                                                           | 22 [Swapping: Policies](http://ostep.org/Korean/22_vm-beyondphys-policy.pdf) |                                                                                 | 45 [Summary](http://ostep.org/Korean/45_file-dialogue.pdf)                          |
-|                                                                   |                                                                           | 23 [Case Study: VAX](http://ostep.org/Korean/23_vm-vax.pdf)                  |                                                                                 | 46 [Dialogue](http://ostep.org/Korean/46_dialogue-distribution.pdf)                 |
-|                                                                   |                                                                           | 24 [Summary](http://ostep.org/Korean/24_vm-dialogue.pdf)                     |                                                                                 | 47 [Distributed Systems](http://ostep.org/Korean/47_dist-intro.pdf)                 |
-|                                                                   |                                                                           |                                                      |                                                                                                         | 48 [Network File System (NFS)](http://ostep.org/Korean/48_NFS.pdf)                  |
-|                                                                   |                                                                           |                                                      |                                                                                                         | 49 [Andrew File System (AFS)](http://ostep.org/Korean/49_AFS.pdf)                   |
-|                                                                   |                                                                           |                                                      |                                                                                                         | 50 [Summary](http://ostep.org/Korean/50_dist-dialogue.pdf)                          |
+|1 강의소개| :white_large_square: | [강의 소개](네트워크/강의-소개) |
+|2 컴퓨터 네트워크 시작하기| :white_large_square: | [컴퓨터 네트워크를 알아야 하는 이유](네트워크/네트워크를-알아야-하는-이유) |
+| | :white_large_square: | [네트워크 거시적으로 살펴보기 (1) 네트워크 기본 구조](네트워크/네트워크-기본-구조) |
+| | :white_large_square: | [네트워크 거시적으로 살펴보기 (2) 네트워크 분류](네트워크/네트워크-분류) |
+| | :white_large_square: | [주소와 송수신지 유형에 따른 전송 방식](네트워크/전송-방식) |
+| | :white_large_square: | [네트워크 미시적으로 살펴보기 (1) 프로토콜](네트워크/프로토콜) |
+| | :white_large_square: | [네트워크 미시적으로 살펴보기 (2) 네트워크 참조 모델](네트워크/네트워크-참조-모델) |
+| | :white_large_square: | [네트워크 미시적으로 살펴보기 (3) 캡슐화와 역캡슐화](네트워크/캡슐화와-역캡슐화) |
+| | :white_large_square: | [OSI 7계층 TCPIP 4계층은 사실 아무것도 하지 않는다](네트워크/계층-모델) |
+| | :white_large_square: | [트래픽과 네트워크 성능 지표](네트워크/성능-지표) |
+|3 물리 계층과 데이터 링크 계층| :white_large_square: | [개발자와 인프라](네트워크/개발자와-인프라) |
+| | :white_large_square: | [이더넷 (1) 이더넷과 연결 매체](네트워크/이더넷과-연결-매체) |
+| | :white_large_square: | [이더넷 (2) 이더넷 프레임](네트워크/이더넷-프레임) |
+| | :white_large_square: | [NIC와 케이블](네트워크/NIC와-케이블) |
+| | :white_large_square: | [허브](네트워크/허브) |
+| | :white_large_square: | [스위치](네트워크/스위치) |
+| | :white_large_square: | [네트워크 장비 직접 관찰하기](네트워크/네트워크-장비-직접-관찰하기) |
+|4 네트워크 계층| :white_large_square: | [네트워크 계층의 기능](네트워크/네트워크-계층-기능) |
+| | :white_large_square: | [IP](네트워크/IP) |
+| | :white_large_square: | [ARP](네트워크/ARP) |
+| | :white_large_square: | [단편화를 피하는 방법](네트워크/단편화-방지) |
+| | :white_large_square: | [IP 주소의 구조와 클래스풀 주소체계](네트워크/IP-주소-구조) |
+| | :white_large_square: | [클래스리스 주소 체계와 서브네팅](네트워크/클래스리스-주소) |
+| | :white_large_square: | [공인 IP 주소와 사설 IP 주소](네트워크/공인-사설-IP) |
+| | :white_large_square: | [정적 IP 주소 동적 IP 주소](네트워크/정적-동적-IP) |
+| | :white_large_square: | [127.0.0.1과 0.0.0.0](네트워크/루프백-주소) |
+| | :white_large_square: | [라우팅 테이블](네트워크/라우팅-테이블) |
+| | :white_large_square: | [라우팅의 분류와 라우팅 프로토콜](네트워크/라우팅-프로토콜) |
+|5 전송 계층| :white_large_square: | [IP의 한계와 포트](네트워크/IP-한계와-포트) |
+| | :white_large_square: | [포트 포워딩](네트워크/포트-포워딩) |
+| | :white_large_square: | [ICMP](네트워크/ICMP) |
+| | :white_large_square: | [TCP와 UDP](네트워크/TCP-UDP) |
+| | :white_large_square: | [TCP의 오류·흐름·혼잡 제어](네트워크/TCP-제어) |
+| | :white_large_square: | [ECN: 명시적 혼잡 알림](네트워크/ECN) |
+|6 응용계층| :white_large_square: | [DNS와 자원](네트워크/DNS) |
+| | :white_large_square: | [DNS 레코드 타입](네트워크/DNS-레코드) |
+| | :white_large_square: | [HTTP](네트워크/HTTP) |
+| | :white_large_square: | [HTTP의 발전: HTTP/0.9부터 HTTP/3.0까지](네트워크/HTTP-발전) |
+| | :white_large_square: | [HTTP 헤더와 HTTP 기반 기술](네트워크/HTTP-헤더) |
+|7 실습으로 복습하는 네트워크| :white_large_square: | [와이어샤크 설치 및 사용법](네트워크/와이어샤크-설치) |
+| | :white_large_square: | [와이어샤크를 통한 프로토콜 분석](네트워크/프로토콜-분석) |
+|8 네트워크 심화| :white_large_square: | [안정성을 위한 기술](네트워크/안정성-기술) |
+| | :white_large_square: | [포워드 프록시와 리버스 프록시](네트워크/프록시) |
+| | :white_large_square: | [안전성을 위한 기술](네트워크/안전성-기술) |
+| | :white_large_square: | [무선 네트워크](네트워크/무선-네트워크) |
