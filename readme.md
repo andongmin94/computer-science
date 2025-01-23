@@ -61,16 +61,50 @@
 ---
 
 ### [네트워크](네트워크)
-|파트|진행상태|강의내용|
+|섹션|진행상태|강의내용|
 | ------ | ------ | ------ |
-|1| :white_large_square: | [1장 네트워크 기초](네트워크/1장-네트워크-기초.md) |
-| | :white_large_square: | [2장 네트워크 모델](네트워크/2장-네트워크-모델.md) |
-| | :white_large_square: | [3장 데이터 통신](네트워크/3장-데이터-통신.md) |
-| | :white_large_square: | [4장 IP 주소](네트워크/4장-IP-주소.md) |
-| | :white_large_square: | [5장 ARP 프로토콜](네트워크/5장-ARP-프로토콜.md) |
-| | :white_large_square: | [6장 IPv4, ICMP 프로토콜](네트워크/6장-IPv4,-ICMP-프로토콜.md) |
-|2| :white_large_square: | [7장 전송계층 및 포트](네트워크/7장-전송계층-및-포트.md) |
-| | :white_large_square: | [8장 UDP 비연결지향형](네트워크/8장-UDP-비연결지향형.md) |
-| | :white_large_square: | [9장 TCP 연결지향형](네트워크/9장-TCP-연결지향형.md) |
-| | :white_large_square: | [10장 NAT와 포트포워딩](네트워크/10장-NAT와-포트포워딩.md) |
-| | :white_large_square: | [11장 HTTP 프로토콜](네트워크/11장-HTTP-프로토콜.md) |
+|1 강의소개| :white_large_square: | [강의 소개](네트워크/강의-소개) |
+|2 컴퓨터 네트워크 시작하기| :white_large_square: | [컴퓨터 네트워크를 알아야 하는 이유](네트워크/네트워크를-알아야-하는-이유) |
+| | :white_large_square: | [네트워크 거시적으로 살펴보기 (1) 네트워크 기본 구조](네트워크/네트워크-기본-구조) |
+| | :white_large_square: | [네트워크 거시적으로 살펴보기 (2) 네트워크 분류](네트워크/네트워크-분류) |
+| | :white_large_square: | [주소와 송수신지 유형에 따른 전송 방식](네트워크/전송-방식) |
+| | :white_large_square: | [네트워크 미시적으로 살펴보기 (1) 프로토콜](네트워크/프로토콜) |
+| | :white_large_square: | [네트워크 미시적으로 살펴보기 (2) 네트워크 참조 모델](네트워크/네트워크-참조-모델) |
+| | :white_large_square: | [네트워크 미시적으로 살펴보기 (3) 캡슐화와 역캡슐화](네트워크/캡슐화와-역캡슐화) |
+| | :white_large_square: | [OSI 7계층 TCPIP 4계층은 사실 아무것도 하지 않는다](네트워크/계층-모델) |
+| | :white_large_square: | [트래픽과 네트워크 성능 지표](네트워크/성능-지표) |
+|3 물리 계층과 데이터 링크 계층| :white_large_square: | [개발자와 인프라](네트워크/개발자와-인프라) |
+| | :white_large_square: | [이더넷 (1) 이더넷과 연결 매체](네트워크/이더넷과-연결-매체) |
+| | :white_large_square: | [이더넷 (2) 이더넷 프레임](네트워크/이더넷-프레임) |
+| | :white_large_square: | [NIC와 케이블](네트워크/NIC와-케이블) |
+| | :white_large_square: | [허브](네트워크/허브) |
+| | :white_large_square: | [스위치](네트워크/스위치) |
+| | :white_large_square: | [네트워크 장비 직접 관찰하기](네트워크/네트워크-장비-직접-관찰하기) |
+|4 네트워크 계층| :white_large_square: | [네트워크 계층의 기능](네트워크/네트워크-계층-기능) |
+| | :white_large_square: | [IP](네트워크/IP) |
+| | :white_large_square: | [ARP](네트워크/ARP) |
+| | :white_large_square: | [단편화를 피하는 방법](네트워크/단편화-방지) |
+| | :white_large_square: | [IP 주소의 구조와 클래스풀 주소체계](네트워크/IP-주소-구조) |
+| | :white_large_square: | [클래스리스 주소 체계와 서브네팅](네트워크/클래스리스-주소) |
+| | :white_large_square: | [공인 IP 주소와 사설 IP 주소](네트워크/공인-사설-IP) |
+| | :white_large_square: | [정적 IP 주소 동적 IP 주소](네트워크/정적-동적-IP) |
+| | :white_large_square: | [127.0.0.1과 0.0.0.0](네트워크/루프백-주소) |
+| | :white_large_square: | [라우팅 테이블](네트워크/라우팅-테이블) |
+| | :white_large_square: | [라우팅의 분류와 라우팅 프로토콜](네트워크/라우팅-프로토콜) |
+|5 전송 계층| :white_large_square: | [IP의 한계와 포트](네트워크/IP-한계와-포트) |
+| | :white_large_square: | [포트 포워딩](네트워크/포트-포워딩) |
+| | :white_large_square: | [ICMP](네트워크/ICMP) |
+| | :white_large_square: | [TCP와 UDP](네트워크/TCP-UDP) |
+| | :white_large_square: | [TCP의 오류·흐름·혼잡 제어](네트워크/TCP-제어) |
+| | :white_large_square: | [ECN: 명시적 혼잡 알림](네트워크/ECN) |
+|6 응용계층| :white_large_square: | [DNS와 자원](네트워크/DNS) |
+| | :white_large_square: | [DNS 레코드 타입](네트워크/DNS-레코드) |
+| | :white_large_square: | [HTTP](네트워크/HTTP) |
+| | :white_large_square: | [HTTP의 발전: HTTP/0.9부터 HTTP/3.0까지](네트워크/HTTP-발전) |
+| | :white_large_square: | [HTTP 헤더와 HTTP 기반 기술](네트워크/HTTP-헤더) |
+|7 실습으로 복습하는 네트워크| :white_large_square: | [와이어샤크 설치 및 사용법](네트워크/와이어샤크-설치) |
+| | :white_large_square: | [와이어샤크를 통한 프로토콜 분석](네트워크/프로토콜-분석) |
+|8 네트워크 심화| :white_large_square: | [안정성을 위한 기술](네트워크/안정성-기술) |
+| | :white_large_square: | [포워드 프록시와 리버스 프록시](네트워크/프록시) |
+| | :white_large_square: | [안전성을 위한 기술](네트워크/안전성-기술) |
+| | :white_large_square: | [무선 네트워크](네트워크/무선-네트워크) |

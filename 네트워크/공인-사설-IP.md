@@ -1,0 +1,1 @@
+### [공인 IP 주소와 사설 IP 주소](https://www.inflearn.com/courses/lecture?courseId=335940&unitId=261922&subtitleLanguage=ko)
