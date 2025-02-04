@@ -74,16 +74,16 @@
 | | :white_check_mark: | [OSI 7계층 TCPIP 4계층은 사실 아무것도 하지 않는다](네트워크/계층-모델.md) |
 | | :white_check_mark: | [트래픽과 네트워크 성능 지표](네트워크/성능-지표.md) |
 |3 물리 계층과 데이터 링크 계층| :white_check_mark: | [개발자와 인프라](네트워크/개발자와-인프라.md) |
-| | :white_large_square: | [이더넷 (1) 이더넷과 연결 매체](네트워크/이더넷과-연결-매체.md) |
-| | :white_large_square: | [이더넷 (2) 이더넷 프레임](네트워크/이더넷-프레임.md) |
-| | :white_large_square: | [NIC와 케이블](네트워크/NIC와-케이블.md) |
-| | :white_large_square: | [허브](네트워크/허브.md) |
-| | :white_large_square: | [스위치](네트워크/스위치.md) |
-| | :white_large_square: | [네트워크 장비 직접 관찰하기](네트워크/네트워크-장비-직접-관찰하기.md) |
-|4 네트워크 계층| :white_large_square: | [네트워크 계층의 기능](네트워크/네트워크-계층-기능.md) |
-| | :white_large_square: | [IP](네트워크/IP.md) |
-| | :white_large_square: | [ARP](네트워크/ARP.md) |
-| | :white_large_square: | [단편화를 피하는 방법](네트워크/단편화-방지.md) |
+| | :white_check_mark: | [이더넷 (1) 이더넷과 연결 매체](네트워크/이더넷과-연결-매체.md) |
+| | :white_check_mark: | [이더넷 (2) 이더넷 프레임](네트워크/이더넷-프레임.md) |
+| | :white_check_mark: | [NIC와 케이블](네트워크/NIC와-케이블.md) |
+| | :white_check_mark: | [허브](네트워크/허브.md) |
+| | :white_check_mark: | [스위치](네트워크/스위치.md) |
+| | :white_check_mark: | [네트워크 장비 직접 관찰하기](네트워크/네트워크-장비-직접-관찰하기.md) |
+|4 네트워크 계층| :white_check_mark: | [네트워크 계층의 기능](네트워크/네트워크-계층-기능.md) |
+| | :white_check_mark: | [IP](네트워크/IP.md) |
+| | :white_check_mark: | [ARP](네트워크/ARP.md) |
+| | :white_check_mark: | [단편화를 피하는 방법](네트워크/단편화-방지.md) |
 | | :white_large_square: | [IP 주소의 구조와 클래스풀 주소체계](네트워크/IP-주소-구조.md) |
 | | :white_large_square: | [클래스리스 주소 체계와 서브네팅](네트워크/클래스리스-주소.md) |
 | | :white_large_square: | [공인 IP 주소와 사설 IP 주소](네트워크/공인-사설-IP.md) |
