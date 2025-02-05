@@ -1,1 +1,12 @@
 ### [IP 주소의 구조와 클래스풀 주소체계](https://www.inflearn.com/courses/lecture?courseId=335940&unitId=261920&subtitleLanguage=ko)
+
+![image](https://github.com/user-attachments/assets/72c5dbbf-8c54-4f20-a207-33965e21817e)
+![image](https://github.com/user-attachments/assets/cda4e1b8-9a36-4b72-9a9b-95bf01c94dea)
+![image](https://github.com/user-attachments/assets/79f1c357-b850-493d-a068-e22262056e87)
+![image](https://github.com/user-attachments/assets/77ad0bc8-7c4c-4d7d-8eea-00cae1d5458e)
+![image](https://github.com/user-attachments/assets/7cf8402c-0ab0-46c0-a4a5-898498d3182a)
+![image](https://github.com/user-attachments/assets/5035433e-4efa-440a-be7b-cd33cdcb0ca7)
+![image](https://github.com/user-attachments/assets/27c879b2-5b97-4b0b-89a5-1ff9ca48abb1)
+![image](https://github.com/user-attachments/assets/4041f3f1-1ae6-414c-99fa-69e58c25eb71)
+![image](https://github.com/user-attachments/assets/a8a0e05c-6422-46ed-86c8-e84d8abc5a71)
+![image](https://github.com/user-attachments/assets/ab1e453e-9081-41bd-8164-3949759fa926)
