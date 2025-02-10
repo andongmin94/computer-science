@@ -84,13 +84,13 @@
 | | :white_check_mark: | [IP](네트워크/IP.md) |
 | | :white_check_mark: | [ARP](네트워크/ARP.md) |
 | | :white_check_mark: | [단편화를 피하는 방법](네트워크/단편화-방지.md) |
-| | :white_large_square: | [IP 주소의 구조와 클래스풀 주소체계](네트워크/IP-주소-구조.md) |
-| | :white_large_square: | [클래스리스 주소 체계와 서브네팅](네트워크/클래스리스-주소.md) |
-| | :white_large_square: | [공인 IP 주소와 사설 IP 주소](네트워크/공인-사설-IP.md) |
-| | :white_large_square: | [정적 IP 주소 동적 IP 주소](네트워크/정적-동적-IP.md) |
-| | :white_large_square: | [127.0.0.1과 0.0.0.0](네트워크/루프백-주소.md) |
-| | :white_large_square: | [라우팅 테이블](네트워크/라우팅-테이블.md) |
-| | :white_large_square: | [라우팅의 분류와 라우팅 프로토콜](네트워크/라우팅-프로토콜.md) |
+| | :white_check_mark: | [IP 주소의 구조와 클래스풀 주소체계](네트워크/IP-주소-구조.md) |
+| | :white_check_mark: | [클래스리스 주소 체계와 서브네팅](네트워크/클래스리스-주소.md) |
+| | :white_check_mark: | [공인 IP 주소와 사설 IP 주소](네트워크/공인-사설-IP.md) |
+| | :white_check_mark: | [정적 IP 주소 동적 IP 주소](네트워크/정적-동적-IP.md) |
+| | :white_check_mark: | [127.0.0.1과 0.0.0.0](네트워크/루프백-주소.md) |
+| | :white_check_mark: | [라우팅 테이블](네트워크/라우팅-테이블.md) |
+| | :white_check_mark: | [라우팅의 분류와 라우팅 프로토콜](네트워크/라우팅-프로토콜.md) |
 |5 전송 계층| :white_large_square: | [IP의 한계와 포트](네트워크/IP-한계와-포트.md) |
 | | :white_large_square: | [포트 포워딩](네트워크/포트-포워딩.md) |
 | | :white_large_square: | [ICMP](네트워크/ICMP.md) |
