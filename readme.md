@@ -91,13 +91,13 @@
 | | :white_check_mark: | [127.0.0.1과 0.0.0.0](네트워크/루프백-주소.md) |
 | | :white_check_mark: | [라우팅 테이블](네트워크/라우팅-테이블.md) |
 | | :white_check_mark: | [라우팅의 분류와 라우팅 프로토콜](네트워크/라우팅-프로토콜.md) |
-|5 전송 계층| :white_large_square: | [IP의 한계와 포트](네트워크/IP-한계와-포트.md) |
-| | :white_large_square: | [포트 포워딩](네트워크/포트-포워딩.md) |
-| | :white_large_square: | [ICMP](네트워크/ICMP.md) |
-| | :white_large_square: | [TCP와 UDP](네트워크/TCP-UDP.md) |
-| | :white_large_square: | [TCP의 오류·흐름·혼잡 제어](네트워크/TCP-제어.md) |
-| | :white_large_square: | [ECN: 명시적 혼잡 알림](네트워크/ECN.md) |
-|6 응용계층| :white_large_square: | [DNS와 자원](네트워크/DNS.md) |
+|5 전송 계층| :white_check_mark: | [IP의 한계와 포트](네트워크/IP-한계와-포트.md) |
+| | :white_check_mark: | [포트 포워딩](네트워크/포트-포워딩.md) |
+| | :white_check_mark: | [ICMP](네트워크/ICMP.md) |
+| | :white_check_mark: | [TCP와 UDP](네트워크/TCP-UDP.md) |
+| | :white_check_mark: | [TCP의 오류·흐름·혼잡 제어](네트워크/TCP-제어.md) |
+| | :white_check_mark: | [ECN: 명시적 혼잡 알림](네트워크/ECN.md) |
+|6 응용계층| :white_check_mark: | [DNS와 자원](네트워크/DNS.md) |
 | | :white_large_square: | [DNS 레코드 타입](네트워크/DNS-레코드.md) |
 | | :white_large_square: | [HTTP](네트워크/HTTP.md) |
 | | :white_large_square: | [HTTP의 발전: HTTP/0.9부터 HTTP/3.0까지](네트워크/HTTP-발전) |
