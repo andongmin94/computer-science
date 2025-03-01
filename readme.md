@@ -98,9 +98,9 @@
 | | :white_check_mark: | [TCP의 오류·흐름·혼잡 제어](네트워크/TCP-제어.md) |
 | | :white_check_mark: | [ECN: 명시적 혼잡 알림](네트워크/ECN.md) |
 |6 응용계층| :white_check_mark: | [DNS와 자원](네트워크/DNS.md) |
-| | :white_large_square: | [DNS 레코드 타입](네트워크/DNS-레코드.md) |
-| | :white_large_square: | [HTTP](네트워크/HTTP.md) |
-| | :white_large_square: | [HTTP의 발전: HTTP/0.9부터 HTTP/3.0까지](네트워크/HTTP-발전) |
+| | :white_check_mark: | [DNS 레코드 타입](네트워크/DNS-레코드.md) |
+| | :white_check_mark: | [HTTP](네트워크/HTTP.md) |
+| | :white_large_square: | [HTTP의 발전: HTTP/0.9부터 HTTP/3.0까지](네트워크/HTTP-발전.md) |
 | | :white_large_square: | [HTTP 헤더와 HTTP 기반 기술](네트워크/HTTP-헤더.md) |
 |7 실습으로 복습하는 네트워크| :white_large_square: | [와이어샤크 설치 및 사용법](네트워크/와이어샤크-설치.md) |
 | | :white_large_square: | [와이어샤크를 통한 프로토콜 분석](네트워크/프로토콜-분석.md) |
